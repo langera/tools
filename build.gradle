@@ -41,7 +41,7 @@ jar {
     manifest {
         attributes 'Implementation-Title': 'tools',
                    'Implementation-Version': version,
-                   'Premain-class': 'org.langera.tools.InstrumentationAgent'
+                   'Premain-Class': 'org.langera.tools.InstrumentationAgent'
 
     }
 }
